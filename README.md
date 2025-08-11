@@ -2,7 +2,7 @@
 # Manual Installation for .tar Applications
 
 > Tested on Linux Mint Cinnamon. For distro like Ubuntu, debian packages should be used.
->> nested quote
+
 
 extract the file
 tar -xvzf appname.tar.gz
