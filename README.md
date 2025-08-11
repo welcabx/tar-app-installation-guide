@@ -4,8 +4,10 @@
 > Tested on Linux Mint Cinnamon. For distro like Ubuntu, debian packages should be used.
 
 
-extract the file
-tar -xvzf appname.tar.gz
+1. Download the desired .tar package and locate it.
+
+2. extract the file
+`tar -xvzf appname.tar.gz`
 
 then go to its folder
 cd appname
