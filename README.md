@@ -1,4 +1,4 @@
-# tar-app-installation-guide
+# Manual Installation for .tar Applications
 
 
 extract the file
