@@ -7,7 +7,10 @@
 1. Download the desired .tar package and locate it.
 
 2. extract the file
-`tar -xvzf appname.tar.gz`
+
+```bash
+tar -xvzf appname.tar.gz
+```
 
 then go to its folder
 cd appname
