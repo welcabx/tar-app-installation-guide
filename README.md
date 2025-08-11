@@ -1,4 +1,5 @@
-![](https://img.shields.io/badge/Setup-Guide-blue.svg) # Manual Installation for .tar Applications
+![](https://img.shields.io/badge/Setup-Guide-blue.svg)
+# Manual Installation for .tar Applications
 
 
 extract the file
