@@ -7,6 +7,7 @@
 1. Download the desired .tar package and locate it.
 >> You can move the downloaded file first.
 
+
 2. extract the file
 
 ```bash
