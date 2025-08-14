@@ -3,12 +3,11 @@
 
 > Tested on Linux Mint Cinnamon. For distro like Ubuntu, debian packages should be used.
 
-<br><br>
+<br>
 
 1. Download the desired .tar package and locate it.
   - You can move the downloaded file first.
-
-
+<br>
 2. extract the file
 
 ```bash
