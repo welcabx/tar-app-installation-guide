@@ -4,7 +4,7 @@
 > Tested on Linux Mint Cinnamon. For distro like Ubuntu, debian packages should be used.
 
 <br>
-1. Download the desired .tar package and locate it.
+1. Download the desired .tar package and locate it.<br>
 - You can move the downloaded file first.
 <br>
 2. extract the file
