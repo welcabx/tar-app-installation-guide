@@ -10,7 +10,7 @@
 
 2. extract the file
 
-```bash
+  ```bash
 tar -xvzf appname.tar.gz
 ```
 
