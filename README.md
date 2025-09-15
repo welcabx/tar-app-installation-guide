@@ -7,23 +7,14 @@
 ```bash
 tar -xvzf appname.tar.gz
 ```
+<br>
 2. Go inside the extracted directory.
 ```bash
 cd appname
 ```
+<br>
 3. Run the main executable file. It is often inside the root, bin or similar folder.
 You can test it by running:
 ```bash
 ./appname
 ```
-
-then go to its folder
-cd appname
-
-
-Run the main executable file. it's often inside a bin folder or similar folder. test run by clicking it or using terminal
-./appname
-
-
-create a .desktop file and edit it
-nano ~/.local/share/applications/appname.desktop
