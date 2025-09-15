@@ -1,7 +1,6 @@
 ![Setup Guide](https://img.shields.io/badge/Setup-Guide-blue.svg)
 # Manual Installation for .tar Applications
 ### Tested on Linux Mint Cinnamon. For distro like Ubuntu, debian packages should be used.
-
 <br><br>
 1. Locate the tar file you downloaded and extract it.
 ```bash
