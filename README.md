@@ -7,6 +7,10 @@
 ```bash
 tar -xvzf appname.tar.gz
 ```
+2. Go inside the extracted directory.
+```bash
+cd appname
+```
 
 then go to its folder
 cd appname
