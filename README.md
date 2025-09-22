@@ -18,7 +18,6 @@ You can test it by running:
 ./appname
 ```
 4. Create a .desktop file
-```
-bash
+```bash
 nano ~/.local/share/applications/appname.desktop
 ```
