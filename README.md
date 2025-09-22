@@ -12,7 +12,7 @@ tar -xvzf appname.tar.gz
 cd appname
 ```
 <br><br>
-3. Run the main executable file. It is often inside the root, bin or similar folder.
+3. Run the main executable file.  It is often inside the root, bin or similar folder.
 You can test it by running:
 ```bash
 ./appname
