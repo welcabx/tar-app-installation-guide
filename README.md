@@ -21,3 +21,14 @@ You can test it by running:
 ```bash
 nano ~/.local/share/applications/appname.desktop
 ```
+5. Paste the following inside the app's .desktop file.
+```ini
+[Desktop Entry]
+Version=1.0
+Name=App Name
+Exec=/home/yourusername/path/to/app/executable
+Icon=/home/yourusername/path/to/app/icon.png
+Type=Application
+Categories=Utility;
+Terminal=false
+```
