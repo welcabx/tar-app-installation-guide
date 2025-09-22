@@ -16,7 +16,7 @@ cd appname
 You can test it by running:
 ```bash
 ./appname
-```
+```  
 
 
 4. Create a .desktop file
