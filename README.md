@@ -40,3 +40,4 @@ chmod +x ~/.local/share/applications/appname.desktop
 ```bash
 update-desktop-database ~/.local/share/applications
 ```
+8. Launch and pin. Search it on the app drawer, right click on it and then "add to favorites".
