@@ -6,12 +6,12 @@ Tested on Linux Mint Cinnamon. For distro like Ubuntu, debian packages should be
 ```bash
 tar -xvzf appname.tar.gz
 ```
-<br><br>
+<br>
 2. Go inside the extracted directory.
 ```bash
 cd appname
 ```
-<br><br>
+<br>
 3. Run the main executable file. It is often inside the root, bin or similar folder.
 You can test it by running:
 ```bash
@@ -22,8 +22,7 @@ You can test it by running:
 ```bash
 nano ~/.local/share/applications/appname.desktop
 ```
-
-
+<br>
 5. Paste the following inside the app's .desktop file.
 ```ini
 [Desktop Entry]
