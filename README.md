@@ -46,3 +46,5 @@ update-desktop-database ~/.local/share/applications
 ```
 <br><br>
 8. Launch and pin. Search it on the app drawer, right click on it and then "add to favorites".
+<br><br><br>
+This is a test line for 3 breaks.
