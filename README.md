@@ -32,3 +32,7 @@ Type=Application
 Categories=Utility;
 Terminal=false
 ```
+6. Make it executable
+```bash
+chmod +x ~/.local/share/applications/appname.desktop
+```
