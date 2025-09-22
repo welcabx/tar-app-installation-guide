@@ -17,3 +17,8 @@ You can test it by running:
 ```bash
 ./appname
 ```
+4. Create a .desktop file
+```
+bash
+nano ~/.local/share/applications/appname.desktop
+```
