@@ -12,13 +12,12 @@ tar -xvzf appname.tar.gz
 cd appname
 ```
 <br><br>
-3. Run the main executable file.  It is often inside the root, bin or similar folder.
+3. Run the main executable file. It is often inside the root, bin or similar folder.
 You can test it by running:
 ```bash
 ./appname
-```  
-
-
+```
+<br>
 4. Create a .desktop file
 ```bash
 nano ~/.local/share/applications/appname.desktop
