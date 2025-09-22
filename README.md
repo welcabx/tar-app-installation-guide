@@ -36,3 +36,7 @@ Terminal=false
 ```bash
 chmod +x ~/.local/share/applications/appname.desktop
 ```
+7. Refresh desktop database
+```bash
+update-desktop-database ~/.local/share/applications
+```
