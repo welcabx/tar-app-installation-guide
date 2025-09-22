@@ -17,10 +17,14 @@ You can test it by running:
 ```bash
 ./appname
 ```
+
+
 4. Create a .desktop file
 ```bash
 nano ~/.local/share/applications/appname.desktop
 ```
+
+
 5. Paste the following inside the app's .desktop file.
 ```ini
 [Desktop Entry]
@@ -32,12 +36,18 @@ Type=Application
 Categories=Utility;
 Terminal=false
 ```
+
+
 6. Make it executable
 ```bash
 chmod +x ~/.local/share/applications/appname.desktop
 ```
+
+
 7. Refresh desktop database
 ```bash
 update-desktop-database ~/.local/share/applications
 ```
+
+
 8. Launch and pin. Search it on the app drawer, right click on it and then "add to favorites".
